@@ -1,5 +1,6 @@
 import * as React from "react";
 import { render } from "react-dom";
+// import {useAnimation} from "framer"
 
 import "./styles.css";
 
